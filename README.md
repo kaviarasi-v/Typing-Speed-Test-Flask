@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Test – Python Mini Project
+# ⌨️ Typing Speed Test – Python Flask Mini Project
 
 A clean and minimal web app to measure how fast you type.Lightweight, distraction-free design with a transparent typing area over a soft background.Perfect for practicing typing or just testing your speed in seconds.
 
